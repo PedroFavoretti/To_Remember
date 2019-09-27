@@ -1,0 +1,8 @@
+-----------------------------------------------------------------------------------------------------------------------------------
+                                                        To_Remember
+-----------------------------------------------------------------------------------------------------------------------------------
+
+-- Quando comparar strings sempre usar [equals], pois por default ao comparar as mesmas sempre será retornado false, a nãos er que 
+seja usado o equals.
+
+-- 
