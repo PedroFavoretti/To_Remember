@@ -4,8 +4,12 @@
 
 
 -- Desenvolvimento:
-    Equals: Quando comparar strings sempre usar [equals], pois por default ao comparar as mesmas sempre será retornado false, a não ser que 
-    seja usado este método.
+    Equals: Quando comparar strings sempre usar [equals], pois por default ao comparar as mesmas sempre será retornado false, a não
+    ser que seja usado este método.
     Mapa: Conjunto de chaves e valores [ nome : "João" ]
+    
+    -- Sites:
+      https://www.w3schools.com
+      https://dev.mysql.com/doc
     
  
