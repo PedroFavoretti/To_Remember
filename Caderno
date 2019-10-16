@@ -7,6 +7,7 @@
     Equals: Quando comparar strings sempre usar [equals], pois por default ao comparar as mesmas sempre será retornado false, a não
     ser que seja usado este método.
     Mapa: Conjunto de chaves e valores [ nome : "João" ]
+    Substring: Parte da string, geralmente usado para "pegar" uma parte da informação
     
     -- Sites:
       https://www.w3schools.com
