@@ -8,6 +8,8 @@
     ser que seja usado este método.
     Mapa: Conjunto de chaves e valores [ nome : "João" ]
     Substring: Parte da string, geralmente usado para "pegar" uma parte da informação
+    Para declarar indices em uma string ou qlqr outro tipo, fazer (QUANTIDADE - 1) assim, irá retornar os indices, pois na programa
+    ção começamos sempre do 0. (10 posições, 10 - 1 = 9 indices, onde o 1 é = 0)
 
     
  -- Sites:
