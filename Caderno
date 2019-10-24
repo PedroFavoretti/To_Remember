@@ -9,8 +9,13 @@
     Mapa: Conjunto de chaves e valores [ nome : "João" ]
     Substring: Parte da string, geralmente usado para "pegar" uma parte da informação
     
-    -- Sites:
-      https://www.w3schools.com
-      https://dev.mysql.com/doc
+    
+-- Groovy
+    Para converter o tipo da variavel usar 'as'
+    exemplo: Long modelId = row[1] as Long
+    
+ -- Sites:
+    https://www.w3schools.com
+    https://dev.mysql.com/doc
     
  
